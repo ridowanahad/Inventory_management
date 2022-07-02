@@ -7,18 +7,8 @@ Step6: Once the database is successfully added, Right-click on it and click on p
 Step7 : Copy the connection string and replace it in all the sqlconnection objects.
 
 SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\afwadmin\Documents\Inventorydb.mdf;Integrated Security=True;Connect Timeout=30");
-Replace the string inside the double cote with the connection string.
+Replace the string inside the double code with the connection string.
 
-Step8 : Run the project and enjoy this wonderfull application
-
-Note:
-1. In case you fill difficult to follow all these steps,you can simply open the solution, 
-and then create your own database by following instructions in my youtube video tutorial, 
-once you create the database, you can the run the project successfully
-
-2. Making project like this takes a lot of time, your support to this channel will be highly appreciated.
-
-Share our content, Subscribe, drop a nice content, donate. it will help us to keep on publishing more and more content
+Step8 : Run the project and enjoy this wonderful application
 
 
-Code Space

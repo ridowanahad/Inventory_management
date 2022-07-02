@@ -90,6 +90,10 @@ namespace InventoryMgmtTuto
             }
         }
 
+       
+
+
+
         private void ManageCategories_Load(object sender, EventArgs e)
         {
             populate();
@@ -109,4 +113,8 @@ namespace InventoryMgmtTuto
             this.Hide();
         }
     }
+
+  
 }
+
+
